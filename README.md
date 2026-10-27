@@ -1,4 +1,4 @@
-# Processador e Filtro de Campanhas (ETL de Taxonomia BAU) 📊✨
+# Processador e Filtro de Campanhas (ETL de Taxonomia BAU) 📊
 
 Script em Python desenvolvido para automatizar a extração, transformação e carga (ETL) de relatórios consolidados de gestão de campanhas de marketing em formato `.csv`, aplicando filtros de datas e palavras-chave e exportando o resultado final para uma planilha Excel (`.xlsx`).
 
