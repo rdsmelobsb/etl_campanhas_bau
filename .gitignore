@@ -1,0 +1,8 @@
+# Ambiente virtual
+.venv/
+venv/
+__pycache__/
+
+# Dados brutos e bases geradas
+*.csv
+campanhas.xlsx
